@@ -1,6 +1,6 @@
 {
-  "name": "@components/unison",
-  "version": "0.7.0",
+  "name": "components-unison",
+  "version": "0.7.1",
   "description": "Unifying named breakpoints across CSS, JS, and HTML.",
   "main": "js/unison.js",
   "scripts": {
